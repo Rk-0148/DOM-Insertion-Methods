@@ -2,3 +2,18 @@ html {
   height: 100%;
   width: 100%;
 }
+
+.red {
+  background-color: red;
+  color: white;
+}
+
+.yellow {
+  background-color: yellow;
+  color: black;
+}
+
+.text-decor {
+  font-weight: 700;
+  font-size: 3rem;
+}
